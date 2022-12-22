@@ -8,7 +8,7 @@ The purpose of this project is to create a business proposal for a bike sharing 
 ### Figure 1:
 <img width="510" alt="Customer Type and Number of Rides" src="https://user-images.githubusercontent.com/110318652/209225034-dc99b6f9-c1d4-4e5b-be44-6e34098db8cb.png">
 The image above displays the customer type and the total number of rides. We see that most of the customers are the subscribers. We see the total number of rides for August 2019 is 2,344,224.
-
+_______________________________________________________
 
 ### Figure 2:
 <img width="1233" alt="August Peak Hours" src="https://user-images.githubusercontent.com/110318652/209221677-ead5452b-150e-4e2e-af08-3fd64991dfd6.png">
