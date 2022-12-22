@@ -24,11 +24,11 @@ The purpose of this project is to create a business proposal for a bike sharing 
 
 
 ### Figure 6:
-<img width="1052" alt="User Trips by Gender Weekday" src="https://user-images.githubusercontent.com/110318652/209221754-c7214150-6458-40b8-bdec-12a6433b661d.png">
-ng">
+<img width="1240" alt="Trips by Gender (Weekday per Hour)" src="https://user-images.githubusercontent.com/110318652/209221772-02c12378-0a4f-48ee-a618-c2e0c21d6c16.png">
 
 
 ### Figure 7:
-<img width="1240" alt="Trips by Gender (Weekday per Hour)" src="https://user-images.githubusercontent.com/110318652/209221772-02c12378-0a4f-48ee-a618-c2e0c21d6c16.png">
+img width="1052" alt="User Trips by Gender Weekday" src="https://user-images.githubusercontent.com/110318652/209221754-c7214150-6458-40b8-bdec-12a6433b661d.png">
+ng">
 
 ## Summary
