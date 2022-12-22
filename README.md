@@ -6,7 +6,7 @@ The purpose of this project is to create a business proposal for a bike sharing 
 ## Results
 
 ### Figure 1:
-<img width="528" alt="Gender Breakdown and Number of Rides" src="https://user-images.githubusercontent.com/110318652/209221671-6040af83-d9fb-4d75-8230-0bb8c24a8828.png">
+<img width="510" alt="Customer Type and Number of Rides" src="https://user-images.githubusercontent.com/110318652/209225034-dc99b6f9-c1d4-4e5b-be44-6e34098db8cb.png">
 
 ### Figure 2:
 <img width="1233" alt="August Peak Hours" src="https://user-images.githubusercontent.com/110318652/209221677-ead5452b-150e-4e2e-af08-3fd64991dfd6.png">
