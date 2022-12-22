@@ -21,7 +21,6 @@ The purpose of this project is to create a business proposal for a bike sharing 
 
 
 ### Figure 5:
-<img width="1080" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/110318652/209221745-f3ef1286-3e06-48cf-9b44-c442b9e1f08f.p
 
 
 ### Figure 6:
